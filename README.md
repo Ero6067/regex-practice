@@ -1,4 +1,4 @@
-# Regular Expression Practice
+# Basic Regular Expression Practice
 
 Written by Kris Lafrance
 
@@ -6,7 +6,7 @@ Uses HTML5, Javascript
 
 # Features
 
-* 
+* Examples of various Basic REGEX
 
 # Run
 
